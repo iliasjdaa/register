@@ -1,0 +1,11 @@
+{
+  "description": "Knowledge Hub - Desktop app for managing links, articles, and knowledge. Built with Electron, React, and TypeScript. Full Arabic interface with RTL support.",
+  "repo": "https://github.com/iliasjdaa/knowledge-hub-website",
+  "owner": {
+    "username": "iliasjdaa",
+    "email": "jdaailias@gmail.com"
+  },
+  "record": {
+    "CNAME": "knowledge-hub.netlify.app"
+  }
+}
